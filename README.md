@@ -51,12 +51,6 @@ Found secret in 184776822 attempts: secret
 - Intel Core i9-9900k @ 3.6GHz - around 1.5 minutes
 - Intel Core i5 @ 2.9GHz - around 4 minutes
 
-Donate:
-
-    BTC:  192TC7d7ZRYJQbQnAWvMpkccnBNQN1ae6R
-    ETH:  0x7d1082d952f4d584ae2910e14018f4dce7495c74
-    LTC:  MLx6wmFjXfBTKj6JfB5NXaiKjNLeEntRoZ
-    DOGE: DHCjW71EWBzvv43XPXVJc491brcBJXXq88
 author: 
     
     Name:          Nikita
